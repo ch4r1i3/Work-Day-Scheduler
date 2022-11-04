@@ -9,3 +9,4 @@ This is just a preview of what a Wrok-Day Scheduler looks like:
 
 
 Do not doubt to use it if you want to start optimizing your time every day or someone else's. Visit us here to start planing your day:
+https://ch4r1i3.github.io/Work-Day-Scheduler/
